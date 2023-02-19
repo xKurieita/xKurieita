@@ -16,6 +16,6 @@
    tools: ["Git","Github","Netlify","Heroku"]
   }
   ```
-  
+  <div align="center">
   [![xKurieita's GitHub stats](https://github-readme-stats.vercel.app/api?username=xKurieita&show_icons=true&theme=dark)](https://github.com/xKurieita/github-readme-stats)
-
+</div>

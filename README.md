@@ -11,8 +11,8 @@
     last: "Luna"
    },
    location: "Chicago Metro Area",
-   code: ["JavaScript","HTML","CSS","PL/SQL"],
-   frameworks: ["React","Node.js", "ExpressJS", "Bootstrap", "Material UI", "Axios"],
+   code: ["JavaScript", "TypeScript","HTML","CSS","PL/SQL"],
+   frameworks: ["React","Node.js", "ExpressJS", "Bootstrap", "Material UI", "Tailwind", ],
    tools: ["Git","Github","Netlify","Heroku"]
   }
   ```
